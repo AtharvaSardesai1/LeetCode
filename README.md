@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0018-4sum) |
+| [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0454-4sum-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0454-4sum-ii) |
 | [2122-count-special-quadruplets](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2122-count-special-quadruplets) |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2122-count-special-quadruplets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
