@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0454-4sum-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0454-4sum-ii) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
