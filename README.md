@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0454-4sum-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0454-4sum-ii) |
 | [1428-jump-game-iii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1428-jump-game-iii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2122-count-special-quadruplets](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2122-count-special-quadruplets) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0047-permutations-ii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
