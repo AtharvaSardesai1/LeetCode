@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0001-two-sum) |
 | [0454-4sum-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0454-4sum-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1160-letter-tile-possibilities](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [2122-count-special-quadruplets](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2122-count-special-quadruplets) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0047-permutations-ii) |
+| [1160-letter-tile-possibilities](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1160-letter-tile-possibilities) |
+## Counting
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
