@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Enumeration
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2107-find-unique-binary-string) |
