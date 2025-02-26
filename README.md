@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1428-jump-game-iii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1428-jump-game-iii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2122-count-special-quadruplets](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2122-count-special-quadruplets) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
