@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0454-4sum-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0454-4sum-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1428-jump-game-iii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1428-jump-game-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
