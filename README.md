@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -146,9 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
