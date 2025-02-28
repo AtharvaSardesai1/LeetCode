@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -140,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
