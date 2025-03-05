@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0070-climbing-stairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Memoization
 |  |
 | ------- |
