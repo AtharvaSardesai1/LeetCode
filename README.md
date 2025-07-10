@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0454-4sum-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/3483-alternating-groups-ii) |
