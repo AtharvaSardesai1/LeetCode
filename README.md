@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -206,11 +207,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0054-spiral-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/AtharvaSardesai1/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/AtharvaSardesai1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
