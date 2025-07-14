@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0454-4sum-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0454-4sum-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0079-word-search) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/AtharvaSardesai1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
