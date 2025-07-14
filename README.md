@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0454-4sum-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0454-4sum-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0454-4sum-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/AtharvaSardesai1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
