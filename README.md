@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0055-jump-game) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AtharvaSardesai1/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaSardesai1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/AtharvaSardesai1/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
